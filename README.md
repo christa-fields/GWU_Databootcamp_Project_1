@@ -29,6 +29,8 @@ Investigation of the Opioid Crisis in the United States. What questions can we a
 - Data Sets to be Used
 
 https://data.cms.gov/browse?tags=opioidmap
+https://www.usaspending.gov/DownloadCenter/API/Pages/fpds.aspx
+- Government's API with federal spending data. Sort contract values by government agency to track spending
 
 
 - Rough Breakdown of Tasks 
