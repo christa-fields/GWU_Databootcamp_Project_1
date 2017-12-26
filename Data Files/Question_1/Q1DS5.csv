@@ -1,5 +1,5 @@
-Race,Race Code,Deaths,Population,Death Rate
-American Indian or Alaska Native,1002-5,3578,69249569,5.166819161
-Asian or Pacific Islander,A-PI,1986,284873853,0.697150679
-Black or African American,2054-5,24111,733107645,3.28887581
-White,2106-3,284087,4348515322,6.532965368
+,Race,Race Code,Deaths,Population,Death Rate
+0,American Indian or Alaska Native,1002-5,3578,69249569.0,5.166819160997233
+1,Asian or Pacific Islander,A-PI,1986,284873853.0,0.6971506788304647
+2,Black or African American,2054-5,24111,733107645.0,3.288875810318415
+3,White,2106-3,284087,4348515322.0,6.532965367806056
