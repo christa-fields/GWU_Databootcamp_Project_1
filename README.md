@@ -1,13 +1,18 @@
 - Project Title
 GWU Data Analytics Project 1
 
- 
 - Team Members
 
 Team #1: Christa, Davis, Kevin, Joseph M.
 
-- Project Description/Outline
-:
+*** Presentation Slides: 
+	
+	https://docs.google.com/presentation/d/e/2PACX-1vQqFIFLN2oR6E-hy-oEYjMyUquZUFxDQNi7EDebgkT-ytnWOijaL77kkB03nuBC1IDN-k-fZZ9sDYRP/pub?start=true&loop=false&delayms=60000
+
+	
+***
+
+- Project Description/Outline:
 Investigation of the Opioid Crisis in the United States. What questions can we answer by analysing the available data?
 
 - Potential Research Questions to Answer
